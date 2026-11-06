@@ -1,0 +1,126 @@
+{
+  "tenants": {
+    "hal": "Halvorsen Robotics",
+    "bra": "Bramblecote Foods"
+  },
+  "users": [
+    {
+      "id": "hal-alice",
+      "name": "Alice Moreno",
+      "tenant": "hal",
+      "groups": [
+        "all",
+        "engineering"
+      ],
+      "role": "Software engineer"
+    },
+    {
+      "id": "hal-ben",
+      "name": "Ben Okafor",
+      "tenant": "hal",
+      "groups": [
+        "all",
+        "hr"
+      ],
+      "role": "HR business partner"
+    },
+    {
+      "id": "hal-carla",
+      "name": "Carla Wu",
+      "tenant": "hal",
+      "groups": [
+        "all",
+        "finance"
+      ],
+      "role": "Finance analyst"
+    },
+    {
+      "id": "hal-dev",
+      "name": "Dev Patel",
+      "tenant": "hal",
+      "groups": [
+        "all",
+        "legal"
+      ],
+      "role": "Legal counsel"
+    },
+    {
+      "id": "hal-erin",
+      "name": "Erin Halvorsen",
+      "tenant": "hal",
+      "groups": [
+        "all",
+        "exec"
+      ],
+      "role": "Chief operating officer"
+    },
+    {
+      "id": "hal-frank",
+      "name": "Frank Lind",
+      "tenant": "hal",
+      "groups": [
+        "all"
+      ],
+      "role": "Warehouse technician"
+    },
+    {
+      "id": "bra-gina",
+      "name": "Gina Russo",
+      "tenant": "bra",
+      "groups": [
+        "all",
+        "engineering"
+      ],
+      "role": "Software engineer"
+    },
+    {
+      "id": "bra-hugo",
+      "name": "Hugo Brandt",
+      "tenant": "bra",
+      "groups": [
+        "all",
+        "hr"
+      ],
+      "role": "HR business partner"
+    },
+    {
+      "id": "bra-ines",
+      "name": "Ines Duarte",
+      "tenant": "bra",
+      "groups": [
+        "all",
+        "finance"
+      ],
+      "role": "Finance analyst"
+    },
+    {
+      "id": "bra-jon",
+      "name": "Jon Ellery",
+      "tenant": "bra",
+      "groups": [
+        "all",
+        "legal"
+      ],
+      "role": "Legal counsel"
+    },
+    {
+      "id": "bra-kim",
+      "name": "Kim Achebe",
+      "tenant": "bra",
+      "groups": [
+        "all",
+        "exec"
+      ],
+      "role": "Chief financial officer"
+    },
+    {
+      "id": "bra-leo",
+      "name": "Leo Marsh",
+      "tenant": "bra",
+      "groups": [
+        "all"
+      ],
+      "role": "Line operator"
+    }
+  ]
+}
